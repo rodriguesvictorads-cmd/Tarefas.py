@@ -7,4 +7,4 @@ Funcionalidades:
 - Separa os arquivos por tipo (imagens, documentos, vídeos etc.)
 - Cria as pastas automaticamente se não existirem
 
-![Terminal rodando o organizador](print-terminal-1.png)
+
